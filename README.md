@@ -19,8 +19,8 @@ W celu uzyskania dostępu do szczegółów zmian i historii poszczególnych proj
 
 Projekty zostały stworzone za pomocą:
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Javascript
 - Jquery
 - Biblioteka Leaflet
